@@ -16,25 +16,43 @@ booking where user can book room with comfort over list of various hotels based 
 Technologies Used
 
 Spring Boot
+
 Angular 10
+
 Spring Data
+
 Spring AOP
+
 Jenkins
+
 DevOps
+
 AWS EC2
+
 Microservices
+
 HTML
+
 CSS
+
 JavaScript
+
 Bootstrap
+
 JUnit
+
 Log4J
+
 Hibernate
+ 
 
+#Features
 
-Features
 Help People to search for an room from anywhere.
+
 Providing interactive UI so that people can use the application with ease.
-Easily Book a room according to the convinence
+
+Easily Book a room according to the convinence.
+
 Making use of secure login authentication mechanism.
 
