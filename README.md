@@ -1,6 +1,6 @@
 Capstone Project - Rent A Room
  
- Project Description
+ #Project Description
  
  
 Rent A Room is a online room reservation system where we have multiple modules like
@@ -13,7 +13,7 @@ booking where user can book room with comfort over list of various hotels based 
  We are using hibernate for pushing and fetching data from and onto the database.
 
 
-Technologies Used
+#Technologies Used
 
 Spring Boot
 
